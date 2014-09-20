@@ -1,8 +1,9 @@
 /*
- * Columbia University Engineers Without Borders - Morocco
+ * Columbia University Engineers Without Borders - Uganda
  * CSS Stylesheet
  * Author: Alex Kalicki
  * Source code for site available on GitHub: https://github.com/akalicki/EWB-Morocco
+ * Modified by Stephanie Huang for Uganda.
 */
 
 /* CSS5 RESET
@@ -173,6 +174,38 @@ nav li a {
     position:absolute;
     top:0;
     right:1em;
+    overflow:visible;
+    visibility:visible;
+}
+
+#social-links li {
+    background-color:#262829;
+    overflow:visible;
+    height:auto;
+}
+
+#social-links li ul {
+    display:none;
+    margin-left:-.75em;
+    padding-top:.5em;
+    padding-right:1em;
+    position:fixed;
+}
+
+#social-links li ul a {
+    padding: .1em 1em .25em 1em;
+}
+
+#social-links li ul a:hover {
+    color:white;
+}
+
+#social-links li ul li {
+    display:block;
+}
+
+#social-links li:hover ul {
+    display:block;
 }
 
 /* header image */
