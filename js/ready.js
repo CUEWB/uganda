@@ -52,7 +52,7 @@ function loadPhotos() {
 /* initialize buttons */
 function setupButtons() {
     $(".donate-button").click(function() {
-        window.open("https://ssl.charityweb.net/ewbusa/?Custom4=5051", "_blank");
+        window.open("https://support.ewb-usa.org/cuewb", "_blank");
     });
 }
 
