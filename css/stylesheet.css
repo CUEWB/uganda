@@ -386,6 +386,11 @@ a:hover {
     font-family:"Exo",sans-serif;
 }
 
+.section-donate .donate-button:hover {
+	background-color:#4d4d4d;
+	color: white;
+}
+
 /* sponsor image links */
 #sponsors .sponsor-row {
     margin:0 auto;
