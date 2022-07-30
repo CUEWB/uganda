@@ -169,11 +169,11 @@ nav li a {
 }
 
 #nav-menu a:hover {
-    color:white;
+    color:#333;
 }
 
 #nav-menu li.selected a {
-    color:white;
+    color:#333;
 }
 
 #social-links {
@@ -203,7 +203,7 @@ nav li a {
 }
 
 #social-links li ul a:hover {
-    color:white;
+    color:#333;
 }
 
 #social-links li ul li {
