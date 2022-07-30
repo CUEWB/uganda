@@ -130,7 +130,7 @@ nav {
 
 /* container classes to center content */
 .cbp-af-header {
-    background:url('./images/background1.jpeg') 50% 0 fixed;
+    background:url('/images/background1.jpeg') 50% 0 fixed;
 }
 
 nav .container {
