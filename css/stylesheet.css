@@ -178,6 +178,11 @@ nav li a {
     color:#333;
 }
 
+/* blogs drop-down */
+#blogs {
+	background-color: #d9d3c3;
+}
+
 #social-links {
     position:absolute;
     top:0;
