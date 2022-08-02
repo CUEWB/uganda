@@ -166,6 +166,7 @@ nav li a {
     height:100%;
     font-weight:500;
     color:#909090;
+    line-height: 110px;
 }
 
 #nav-menu a:hover {
